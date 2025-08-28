@@ -1,6 +1,6 @@
 # MusicBridge Android
 
-Companion Android app for [MusicBridge](https://github.com/YOUR_USERNAME/MusicBridge).  
+Companion Android app for [MusicBridge](https://github.com/faraway-world/Musicbridge-server-side).  
 This app listens to music player notifications on your phone (e.g. YouTube Music, Spotify, etc.) and forwards the **song title** and **artist** to the Flask server running on your PC. The server then updates your **Discord Rich Presence** in real time.
 
 ## Features
