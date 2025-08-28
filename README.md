@@ -25,4 +25,3 @@ The app requires:
    ```bash
    git clone https://github.com/faraway-world/MusicBridge.git
 2. You can download the apk from the release [MusicBridge apk](https://github.com/faraway-world/MusicBridge/releases/tag/v0.1)
-   
