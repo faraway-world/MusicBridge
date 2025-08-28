@@ -24,4 +24,4 @@ The app requires:
 1. Clone or download this repo:
    ```bash
    git clone https://github.com/faraway-world/MusicBridge.git
-2. You can download the apk from the release [MusicBridge apk](https://github.com/faraway-world/MusicBridge/releases/tag/v0.1)
+2. You can download the apk from the latest release [MusicBridge apk](https://github.com/faraway-world/MusicBridge/releases/tag/v0.1)
