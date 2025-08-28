@@ -23,4 +23,4 @@ The app requires:
 ## Setup
 1. Clone or download this repo:
    ```bash
-   git clone https://github.com/faraway-world/MusicBridge-Android.git
+   git clone https://github.com/faraway-world/MusicBridge.git
