@@ -30,4 +30,4 @@ The app requires:
 
 - **Minimum Android Version:** API 26 (Android 8.0 Oreo)  
 - **Target Android Version:** API 35 (Android 15)  
-- **Supported Architectures (ABI):**
+- **Architectures:** Architecture-independent (pure Kotlin/Java, no native libraries) → runs on all ABIs (`arm64-v8a`, `armeabi-v7a`, `x86`, `x86_64`)
