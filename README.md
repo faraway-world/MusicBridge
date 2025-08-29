@@ -25,3 +25,9 @@ The app requires:
    ```bash
    git clone https://github.com/faraway-world/MusicBridge.git
 2. You can download the apk from the latest release [MusicBridge apk](https://github.com/faraway-world/MusicBridge/releases/tag/v0.1)
+
+## Compatibility
+
+- **Minimum Android Version:** API 26 (Android 8.0 Oreo)  
+- **Target Android Version:** API 35 (Android 15)  
+- **Supported Architectures (ABI):**
