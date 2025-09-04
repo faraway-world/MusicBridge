@@ -13,7 +13,8 @@ This app listens to music player notifications on your phone (e.g. YouTube Music
 1. When a song starts on your phone, the app reads the notification.  
 2. Extracts **title** and **artist**.  
 3. Sends them as JSON to your PC’s Flask server (default `http://<PC-IP>:5000/update`).  
-4. Your PC updates Discord RPC with the new info.  
+4. **Make sure to enter your tethering IP.**
+5. Your PC updates Discord RPC with the new info.  
 
 ## Permissions
 The app requires:
