@@ -7,7 +7,8 @@ import retrofit2.Response
 
 object SongSender {
     fun sendSong(songInfo: SongInfo) {
-        RetrofitClient.apiService.sendSongInfo(songInfo).enqueue(object : Callback<Void> {
+        val service = RetrofitClient.apiService ?: return
+        service.sendSongInfo(songInfo).enqueue(object : Callback<Void> {
             override fun onResponse(call: Call<Void>, response: Response<Void>) {
                 Log.d("SongSender", "Sent song: ${songInfo.title} - ${songInfo.artist}")
             }
